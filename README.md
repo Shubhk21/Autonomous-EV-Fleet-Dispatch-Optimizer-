@@ -94,7 +94,7 @@ Built on a **real Florida state geospatial dataset** — including:
 pip install ortools shapely geopandas matplotlib numpy
 
 # Run the optimizer
-jupyter notebook NextEra_DRP.ipynb
+jupyter notebook Drp.ipynb
 ```
 
 > Provide equivalent geospatial dataset files in the working directory:
