@@ -113,7 +113,3 @@ jupyter notebook NextEra_DRP.ipynb
 *Built with the vision of making autonomous EV fleet dispatch efficient, scalable, and geospatially aware.*
 
 ---
-
-Copy-paste ready. The Future Work section is intentional — it signals to Uber engineers you're thinking beyond the project, which maps to **"Make big bold bets."**
-
-Ready to move to the Ride Matching Engine bullets?
